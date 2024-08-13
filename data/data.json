@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Black T-Shirt",
+    "description": "A classic black t-shirt made from 100% cotton, perfect for everyday wear.",
+    "price": 19.99,
+    "image_url": "https://example.com/images/classic-black-tshirt.jpg",
+    "category": "T-Shirt",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "stock": 100,
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "name": "Denim Jacket",
+    "description": "A stylish denim jacket with a modern fit, ideal for layering.",
+    "price": 59.99,
+    "image_url": "https://example.com/images/denim-jacket.jpg",
+    "category": "Jacket",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "stock": 75,
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Gray Sweatpants",
+    "description": "Comfortable gray sweatpants with an adjustable waistband.",
+    "price": 29.99,
+    "image_url": "https://example.com/images/gray-sweatpants.jpg",
+    "category": "Pants",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "stock": 60,
+    "rating": 4.3
+  },
+  {
+    "id": 4,
+    "name": "Red Flannel Shirt",
+    "description": "A warm red flannel shirt, perfect for the cooler seasons.",
+    "price": 34.99,
+    "image_url": "https://example.com/images/red-flannel-shirt.jpg",
+    "category": "Shirt",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "stock": 40,
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "name": "Navy Blue Hoodie",
+    "description": "A versatile navy blue hoodie, great for casual wear.",
+    "price": 39.99,
+    "image_url": "https://example.com/images/navy-blue-hoodie.jpg",
+    "category": "Hoodie",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "stock": 50,
+    "rating": 4.5
+  },
+  {
+    "id": 6,
+    "name": "Black Skinny Jeans",
+    "description": "Trendy black skinny jeans with a comfortable stretch fit.",
+    "price": 49.99,
+    "image_url": "https://example.com/images/black-skinny-jeans.jpg",
+    "category": "Jeans",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "stock": 90,
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "White Crewneck Sweater",
+    "description": "A cozy white crewneck sweater, perfect for layering or wearing on its own.",
+    "price": 45.99,
+    "image_url": "https://example.com/images/white-crewneck-sweater.jpg",
+    "category": "Sweater",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "stock": 35,
+    "rating": 4.7
+  },
+  {
+    "id": 8,
+    "name": "Green Cargo Pants",
+    "description": "Durable green cargo pants with multiple pockets for convenience.",
+    "price": 39.99,
+    "image_url": "https://example.com/images/green-cargo-pants.jpg",
+    "category": "Pants",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "stock": 45,
+    "rating": 4.2
+  }
+]
